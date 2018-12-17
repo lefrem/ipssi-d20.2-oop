@@ -1,6 +1,17 @@
 # IPSSI - ASI 20.2 - OOP
 
-**VOTRE NOM ET PRENOM DOIVENT ABSOLUMENT ETRE MIS A LA PLACE DE CETTE LIGNE, SINON JE NE POURRAIS PAS VOUS NOTER**
+**LEFRANCOIS RÉMY**
+
+
+PS : Je n'ai pas reussi a installer le composer sur mon pc donc je te fournis donc un code que j'ai trouver sur le web et qui fonctionne le probleme du code c'est qu'il ne fait pas de verification en diagonale.
+
+
+
+## Difference entre héritage vs composition :
+
+
+
+
 
 ## Sujet de contrôle
 
